@@ -1,3 +1,1 @@
-# Prep-course
-repo de prueba
-repo prueba new
+este repo es una prueba
